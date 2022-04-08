@@ -1,0 +1,26 @@
+a.nav-link {
+  font-size: large;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
+}
+
+.logo {
+  font-size: medium;
+  color: #ffd699;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+img.img-fluid {
+  width: 500px;
+  height: 450px;
+}
+
+.carousel-caption p {
+  background-color: #f7f7f7;
+  /* max-width: 100px; */
+  background-position: center;
+  /* align-items: center; */
+  font-weight: bold;
+}
